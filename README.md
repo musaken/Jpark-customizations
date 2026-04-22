@@ -1,4 +1,4 @@
-# Jemspark Customizations
+# Jpark Customizations
 
 Custom frontend and WooCommerce enhancements for jemspark.co.ke.
 
